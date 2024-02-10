@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/plantDashboard/static/css/main.7d88e6bd.css",
+    "main.js": "/plantDashboard/static/js/main.040c7125.js",
+    "static/media/video.mp4": "/plantDashboard/static/media/video.38db2f718e88748c0298.mp4",
+    "static/media/image (2).png": "/plantDashboard/static/media/image (2).0dadf329b1799f70bfa8.png",
+    "static/media/user (3).png": "/plantDashboard/static/media/user (3).76c4974809cce4f87f02.png",
+    "static/media/user (5).png": "/plantDashboard/static/media/user (5).80d92b02293f5e7e8752.png",
+    "static/media/user (2).png": "/plantDashboard/static/media/user (2).bc69e6ce552a57295c58.png",
+    "static/media/user (1).png": "/plantDashboard/static/media/user (1).3e307923d7ff95e4cdf9.png",
+    "static/media/logo.png": "/plantDashboard/static/media/logo.49ce2cb3550aa5ed8668.png",
+    "static/media/image (8).png": "/plantDashboard/static/media/image (8).e9d631083b65b1033a12.png",
+    "static/media/user (4).png": "/plantDashboard/static/media/user (4).5a745cb8492654058544.png",
+    "static/media/image (1).png": "/plantDashboard/static/media/image (1).fa9ec365967802bfd2bf.png",
+    "static/media/image (9).png": "/plantDashboard/static/media/image (9).177fba3b3f0286a7ed10.png",
+    "static/media/image (10).png": "/plantDashboard/static/media/image (10).1cc180f797cf5ce0b86c.png",
+    "index.html": "/plantDashboard/index.html",
+    "main.7d88e6bd.css.map": "/plantDashboard/static/css/main.7d88e6bd.css.map",
+    "main.040c7125.js.map": "/plantDashboard/static/js/main.040c7125.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d88e6bd.css",
+    "static/js/main.040c7125.js"
+  ]
+}
